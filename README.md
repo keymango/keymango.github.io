@@ -25,10 +25,10 @@
   <img src="https://lazoo.org/wp-content/uploads/2023/05/Fennec-Fox-Male-JEP_4230-1024x731.jpg"   width="600" 
           height="400" />
         
-  <img src
-       <img src="https://cdcssl.ibsrv.net/cimg/www.curatedcontent.smb/730x400_85/726/fennec-fox-626726.jpg"    width="600" 
+
+   <img src= "https://cdcssl.ibsrv.net/cimg/www.curatedcontent.smb/730x400_85/726/fennec-fox-626726.jpg"    width="600" 
          height="400" />
-       <img src= "https://i.pinimg.com/originals/0a/b4/3c/0ab43c47414914e676d9f3c298a0ca26.jpg"
+       <img src="https://i.pinimg.com/originals/0a/b4/3c/0ab43c47414914e676d9f3c298a0ca26.jpg"
           width="600" 
           height="400" />
 
