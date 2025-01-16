@@ -22,32 +22,32 @@
       <section>
         <h2>Fox Photos Below</h2>
         
-        <img src="https://lazoo.org/wp-content/uploads/2023/05/Fennec-Fox-Male-JEP_4230-1024x731.jpg"   width="600" 
+  <img src="https://lazoo.org/wp-content/uploads/2023/05/Fennec-Fox-Male-JEP_4230-1024x731.jpg"   width="600" 
           height="400" />
         
-
+  <img src
        <img src="https://cdcssl.ibsrv.net/cimg/www.curatedcontent.smb/730x400_85/726/fennec-fox-626726.jpg"    width="600" 
-          height="400" />
+         height="400" />
        <img src= "https://i.pinimg.com/originals/0a/b4/3c/0ab43c47414914e676d9f3c298a0ca26.jpg"
           width="600" 
           height="400" />
 
-      </section>
+   </section>
       <section>
         
-        <h2>Fun facts!</h2>
+  <h2>Fun facts!</h2>
    
-        <ul>
+  <ul>
           <li>Fennec foxes have amazing hearing</li>
           <li>Their ears can grow to 4-6 inches long</li>
-          <li>Fennec foxes are the only carnivore in the Sahara Desert that are able to survive witout water</li>
+          <li>Fennec foxes are the only carnivore in the Sahara Desert that can survive without water</li>
           <li>Fennec foxes can run up to 20 miles per hour!</li>
         </ul>
         <figure>
           <img src="https://s3.animalia.bio/animals/photos/full/original/sahra11jpg.webp" alt="A fennec fox walking through the desert." width="500" 
           height="400" />
           
-        <h3>Fennec foxes favorite foods:</h3>
+   <h3>Fennec foxes favorite foods:</h3>
         <ol>
           <li>Birds and their eggs</li>
           <li>Small rodents</li>
@@ -61,19 +61,19 @@
           height="400" />
          
        
-        </figure>
+   </figure>
       </section>
       <section>
-     <h4>Thank you for visiting, hope you had fun learning about fennec foxes!!</h4>
+     <h4>Thank you for visiting, I hope you had fun learning about fennec foxes!!</h4>
        
 
      
-      </section>
+  </section>
     </main>
     <footer>
       <p>
   
-      </p>
+  </p>
     </footer>
   </body>
 
