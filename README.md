@@ -2,7 +2,6 @@
 <html>
 <body style="background-color:lightsalmon;">
 <head>
-  <title>Fennec Foxes</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" >
   <link href="style.css" rel="stylesheet">
 </head>
@@ -10,11 +9,11 @@
   <h1>Learn About Fennec Foxes!!</h1>
   <p>Learn all of the fun facts and look at cute pictures of these amazing foxes.</p>
 
-  <script src="script.js"></script>
+
 </body>
 <html/>
 <head>
-    <title>fennec</title>
+    
   </head>
   <body>
     <main>
